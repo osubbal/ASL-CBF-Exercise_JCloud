@@ -1,6 +1,6 @@
 # About
 
-- Related Publication: []
+- Related Publication: Cloud, J., Stark, J., Hasselbach, A. N., Hiersche, K. J., Salat, D. H., Juttukonda, M. R., & Hayes, S. M. (2024). Exercise-induced reductions in central command network cerebral blood flow assessed with arterial spin labeling MRI. Imaging Neuroscience, 2, 1-13.
 
 ## 01 - Image Processing
 - Coding Language: bash
